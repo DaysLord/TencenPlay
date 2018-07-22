@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="umeng_white">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+    <color name="biz_audio_progress_bg">#00b2ff</color>
+    <color name="colorTintRed">#FF4C58</color>
+    <color name="panel_black">#25272A</color>
+    <color name="black_a10_color">#1a000000</color>
+    <color name="color_bottom_bar_background">#222B48</color>\
+    <color name="black">#000000</color>
+</resources>

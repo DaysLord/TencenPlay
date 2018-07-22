@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">腾讯超级播放器</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_ok">确定</string>
+</resources>
